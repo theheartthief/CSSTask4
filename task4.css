@@ -68,6 +68,7 @@ header div{
     text-align: right;
     font-size: 1.5rem;
     color: #5fc0cd;
+    text-decoration: underline;
 }
 .form_style{
     width: 50%;
